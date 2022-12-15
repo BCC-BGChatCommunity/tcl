@@ -4,4 +4,4 @@ proc proc_3 { nick uhost hand chan text } {
   putquick "PRIVMSG $chan :github.com repository. 3"
 }
 
-putlog "test.tcl is loaded from github.com repositiry"
+putlog "test3.tcl is loaded from github.com repositiry"
